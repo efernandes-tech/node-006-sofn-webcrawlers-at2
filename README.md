@@ -1,17 +1,16 @@
-# cotalista-robot
+# node-005-sofn-webcrawlers-at2
 
 Install
 -----
 
 ``npm install``
 
-Run
------
-
-``npm start``
-
-Branch atualizacao2 - Run
+Start
 -----
 
 ``node index.js``
-# node-005-sofn-webcrawlers-at2
+
+Run
+-----
+
+http://localhost:8080/
